@@ -1,0 +1,24 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask = "*"
+google-api-python-client = "*"
+beautifulsoup4 = "*"
+requests = "*"
+pysolr = "*"
+flask-cors = "*"
+networkx = "*"
+numpy = "*"
+scipy = "*"
+tqdm = "*"
+nltk = "*"
+pyspellchecker = "*"
+scikit-learn = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
